@@ -1,0 +1,10 @@
+* shadow
+
+Mirror of https://git.mfiano.net/mfiano/shadow
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/shadow.git   |
+| commit  | 85355cd  |
+| systems | shadow |
+|---------+-------------------------------------------|
+
